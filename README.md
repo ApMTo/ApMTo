@@ -1,23 +1,59 @@
-<h1 align="center">Hi 👋, I'm Eduard</h1>
-<h3 align="center">A Full Stack developer from Armenia</h3>
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/030/602/267/small/painting-of-two-samurai-fighting-on-a-bridge-ai-generative-free-photo.jpg" margin="0 auto">
+</p>
+<h1 align="center">Hi there, I'm Eduard! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apmto&label=Profile%20views&color=0e75b6&style=flat" alt="apmto" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apmto" alt="apmto" /></a> </p>
-
-- 🌱 I’m currently learning **GraphQL, WebSockets**
-
-- 💬 Ask me about **React, Next.js, Node.js**
-
-- 📫 How to reach me **edosargsyan891@gmail.com**
-
-- ⚡ Fun fact **Eduard writes code so well that even the JSON server respects his decisions. 😎🔥**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/apmto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apmto/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/edo.sargsyan.7798/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/edo.sargsyan.7798/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/apmto?tab=repositories"><img src="https://img.shields.io/github/followers/apmto?label=Followers&style=social"></a>
+  <a href="mailto:edosargsyan891@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+- 🌍 FullStack Developer from **Armenia**
+- 💻 I work with **React.js, Next.js, Node.js, Express.js, MongoDB** and more.
+- 🎯 Passionate about building high-quality web applications.
+- 🚀 Currently exploring **TypeScript and advanced backend concepts**.
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=black">
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apmto&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+## 📫 Contact Me
+- 📩 Email: [edosargsyan891@gmail.com](mailto:edosargsyan891@gmail.com)
+- 💬 Discord: apmto
+- 📷 Instagram: [sargsyan_.555](https://www.instagram.com/sargsyan_.555/)
+- 📘 Facebook: [edo sargsyan](https://www.facebook.com/edo.sargsyan.7798/)
+- 💼 LinkedIn: [apmto](https://www.linkedin.com/in/apmto/)
+- 📱 Telegram: [ApM_To](https://t.me/Apm_To)
+
+---
+<p align="center">⭐️ From <a href="https://github.com/apmto">Eduard</a></p>
+
