@@ -11,9 +11,8 @@
 ## 🚀 About Me
 
 - 🌍 FullStack Developer from **Armenia**
-- 💻 I work with **React.js, Next.js, Node.js, Express.js, MongoDB** and more.
+- 💻 I work with **React.js, Next.js, Vue.js, Nest.js, MongoDB** and more.
 - 🎯 Passionate about building high-quality web applications.
-- 🚀 Currently exploring **TypeScript and advanced backend concepts**.
 
 ## 🛠️ Tech Stack
 
